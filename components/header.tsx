@@ -33,6 +33,9 @@ export const Header = ({
           <NavLink href="/docs" partialMatch>
             Docs
           </NavLink>
+          <NavLink target="_blank" href="https://play.strawberry.rocks">
+            Playground
+          </NavLink>
           <NavLink
             target="_blank"
             href="https://github.com/strawberry-graphql/strawberry"
